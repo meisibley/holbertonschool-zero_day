@@ -1,1 +1,1 @@
-not empty
+Readme in git dir
